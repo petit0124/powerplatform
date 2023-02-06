@@ -1,0 +1,15 @@
+{
+  "components": [
+    {
+      "Capabilities": {
+        "PCFExternalServiceUsageAllowed": false
+      },
+      "ComponentName": "CustomControl",
+      "Identifier": "lab_lab.FirstControl",
+      "IdentifierType": 0
+    }
+  ],
+  "instanceUrl": "https://org64f61c45.crm5.dynamics.com/",
+  "state": "Configured",
+  "webApiVersion": "v9.0"
+}
